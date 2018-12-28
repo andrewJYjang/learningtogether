@@ -8,5 +8,4 @@ Some middle schoold, high school students and college students have pleasant tim
 ![20180623_185340](https://user-images.githubusercontent.com/5047309/50425426-08231680-08b9-11e9-84ee-e73b13e6f453.jpg)
 ![20180630_181853 1](https://user-images.githubusercontent.com/5047309/50425427-08231680-08b9-11e9-8662-1ac241c4c4c5.jpg)
 ![20180508_152206](https://user-images.githubusercontent.com/5047309/50425428-08231680-08b9-11e9-907e-95d606aec897.jpg)
-![20180526_1841044](https://user-images.githubusercontent.com/5047309/50513714-d7bbc200-0adc-11e9-840a-7a03dcbc757c.jpg)
-
+![20180526_18410443](https://user-images.githubusercontent.com/5047309/50513769-18b3d680-0add-11e9-8262-ea60397c6efb.jpg)

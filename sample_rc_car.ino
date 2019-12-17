@@ -1,5 +1,6 @@
 // Test driving code from an arduino RC car book of Seo Min-Woo and Kim Jung-hun. https://cafe.naver.com/answerbook/1968.
 // We had to change some for making real driving. Franky, the book has wrong codes and other low quality editing result.
+// Finally, this project could be connected to study a better RC car including Raspberry Pi, specially driven by deep learning.
 
 void setup() {
   remote_setup();  

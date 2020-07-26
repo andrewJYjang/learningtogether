@@ -4,6 +4,9 @@ This supports an interesting mini project about IoT with raspberry pi and arduin
 Some middle schoold, high school students and college students have pleasant time making an automatic bin and a RC car since April 19, 2018.
 The project was more developed to share the weekly meetup at a conference 2018.
 
+It's not easy to make something on people's life change and their kids future.
+
+
 ![20180526_191230](https://user-images.githubusercontent.com/5047309/50425424-078a8000-08b9-11e9-826b-4186a96bdf63.jpg)
 ![20180604_174544](https://user-images.githubusercontent.com/5047309/50425425-078a8000-08b9-11e9-9e49-7f2d218d61ed.jpg)
 ![20180623_185340](https://user-images.githubusercontent.com/5047309/50425426-08231680-08b9-11e9-84ee-e73b13e6f453.jpg)

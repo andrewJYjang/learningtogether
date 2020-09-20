@@ -1,8 +1,9 @@
 # learningtogether
 
 This supports an interesting mini project about IoT with raspberry pi and arduino.
-Some middle schoold, high school students and college students have pleasant time making an automatic bin and a RC car since April 19, 2018.
-The project was more developed to share the weekly meetup at a conference 2018.
+Some middle schoold, high school students and college students have a pleasant time making an automatic bin and a RC car since April 19, 2018.
+The project was more developed to share the weekly meetup at a conference 2018. We thought its development would be applied in the practical thought changing with curiosity and solving problems ability at next conference. So many experts and authorities in such developed countries have negative views on the global warming as well as COVID-19. For our next generation training we may do something in long term insight.
+
 
 It's not easy to make something on people's life change and their kids future.
 

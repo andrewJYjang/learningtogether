@@ -7,7 +7,7 @@ Some middle school, high school students and college students have a pleasant ti
 The project was more developed to share the weekly meetup at a conference 2018. We thought its development would be applied in the practical thought changing with curiosity and solving problems ability at next conference. So many experts and authorities in such developed countries have negative views on the global warming as well as COVID-19. For our next generation training we may do something in long term insight.
 
 
-It's not easy to make something on people's life change and their kids future.
+It's not easy to make something on people's life change and their kids future. In COVID-19 pandemic, a hard situation, new members having learning minds join some zoom video conferences since January 2020.
 
 
 ![20180526_191230](https://user-images.githubusercontent.com/5047309/50425424-078a8000-08b9-11e9-826b-4186a96bdf63.jpg)

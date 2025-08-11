@@ -3,9 +3,10 @@
 #include <DHT.h>
 #include <ArduinoJson.h>
 
+// Blynk 앱을 사용하려고 만든 코드였으나 ngrok 사용하지만 파일명을 그대로 나둠
 // WiFi 설정
-const char* ssid = "Chichi_home";
-const char* password = "eda7zx6820";
+const char* ssid = "your_wifi_ssid";
+const char* password = "your_wifi_password";
 
 // DHT11 센서 설정
 #define DHT_PIN D2

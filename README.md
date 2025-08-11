@@ -17,3 +17,5 @@ It's not easy to make something on people's life change and their kids future. I
 ![20180508_152206](https://user-images.githubusercontent.com/5047309/50425428-08231680-08b9-11e9-907e-95d606aec897.jpg)
 ![20180526_18410443](https://user-images.githubusercontent.com/5047309/50513769-18b3d680-0add-11e9-8262-ea60397c6efb.jpg)
 
+2025-08-11 추가한 사물인터넷 기초 작업
+https://blog.naver.com/ceofus/223966228357

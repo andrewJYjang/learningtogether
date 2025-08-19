@@ -23,3 +23,7 @@ It's not easy to make something on people's life change and their kids future. I
 2025-08-11 추가한 사물인터넷 기초 작업
 https://blog.naver.com/ceofus/223966228357
 
+2025-08-19 Digital twin idea
+검색해보면 robot arm을 3d 컴퓨터 모니터에서 움직이는 것과 실물을 연동시키는 오래된 인턴쉽 학생들의 결과를 볼 수 있다. 
+우체통 메일 도착 표시로 빨간 플래그가 올라간 모습을 오래 전에 봤었는 데, smart home까지 대부분을 적용할 수 있겠다.
+

@@ -1,4 +1,4 @@
-import whisper
+import whisper #whisper 모듈 에러 발생 원인은 open ai whisper 따로 설치를 했어야 함
 import time
 
 start = time.time()
@@ -18,4 +18,5 @@ with open("transcript.txt", "w", encoding="utf-8") as f:
     f.write(result["text"])
 
 elapsed = time.time() - start
+
 print(f"\n✅ 완료! {elapsed/60:.1f}분 소요")

@@ -1,13 +1,12 @@
 # learningtogether
 
-This supports an interesting mini project about IoT with raspberry pi and arduino.
+This project supports an exciting mini initiative in IoT using Raspberry Pi and Arduino.
 
+Since April 19, 2018, middle school, high school, and college students have enjoyed building creative devices such as an automatic bin and a remote-controlled car. The project grew further when participants shared their progress during weekly meetups at a 2018 conference. We believed that its development could inspire practical thinking, curiosity, and problem-solving skills at future conferences.
 
-Some middle school, high school students and college students have a pleasant time making an automatic bin and a RC car since April 19, 2018.
-The project was more developed to share the weekly meetup at a conference 2018. We thought its development would be applied in the practical thought changing with curiosity and solving problems ability at next conference. So many experts and authorities in such developed countries have negative views on the global warming as well as COVID-19. For our next generation training we may do something in long term insight.
+At the same time, many experts and authorities in developed countries expressed negative views on global challenges such as global warming and COVID-19. For the training of the next generation, we realized the importance of fostering long-term insight and resilience.
 
-
-It's not easy to make something on people's life change and their kids future. In COVID-19 pandemic, a hard situation, new members having learning minds join some zoom video conferences since January 2020.
+Changing people’s lives and shaping the future for children is never easy. During the difficult circumstances of the COVID-19 pandemic, new members with a strong desire to learn joined our Zoom video conferences starting in January 2020. Together, we continued to explore, share knowledge, and grow through these collaborative experiences.
 
 
 ![20180526_191230](https://user-images.githubusercontent.com/5047309/50425424-078a8000-08b9-11e9-826b-4186a96bdf63.jpg)
